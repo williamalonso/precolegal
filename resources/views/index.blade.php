@@ -19,7 +19,7 @@
             <table class="table text-center" id="tabela-principal">
                 <thead>
                     <tr>
-                    <th scope="col">Etanol</th>
+                    <th scope="col">Etanoll</th>
                     <th scope="col">G.Comum</th>
                     <th scope="col">G.Aditivada</th>
                     <th scope="col">Endereço</th>
